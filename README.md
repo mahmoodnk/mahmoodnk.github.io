@@ -1,2 +1,2 @@
-# mahmoodnk.github.io
-Nuha Mahmood's github - master branch
+# Welcome to my project home!
+Explore + develop here
